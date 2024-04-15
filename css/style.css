@@ -1,3 +1,6 @@
 header{background-image: url(../img/GitHub.png);
         background-size: cover;
         height: 400px;}
+
+#teams img{width: 500px;
+                height: 500px;}
