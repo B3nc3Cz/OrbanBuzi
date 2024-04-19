@@ -18,3 +18,10 @@ header{background-image: url(../img/GitHub.png);
         font-size: 1.5rem;
 }
 #team li{ margin-bottom: 5px;}
+article{margin-top:50px ;
+        padding: 10px;}
+
+#two{box-shadow: 10px 10px 100px red;
+        border-radius: 20px 20px 20px 20px;}
+#two h2{font-size: 1.5rem;}
+#tnav{display: none;}
